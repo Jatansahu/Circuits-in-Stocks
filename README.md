@@ -19,7 +19,7 @@ The disruption in stocks can be tested using a wide range of algorithms. <br>
 ## Results
 [Click for Phase I report](https://github.com/Jatansahu/Circuits-in-Stocks/blob/main/202218061_Final_Submission.pdf)
 
-[Click for Phase II report](https://github.com/Jatansahu/Circuits-in-Stocks/blob/main/202218061_Final_Submission.pdf)
+[Click for Phase II report](https://github.com/Jatansahu/Circuits-in-Stocks/blob/main/202218061_MiniProject3.pdf))
 
 ---
 **Team Members:** Hetvi Desai, Shreya Arora, Dhruv Solanki, Jatan Sahu <br>
