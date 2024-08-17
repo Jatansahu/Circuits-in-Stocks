@@ -16,6 +16,8 @@ The disruption in stocks can be tested using a wide range of algorithms. <br>
 •	Developing a trading algorithm to predict circuits in a disruptive stock as early as possible. <br>
 •	An additional outcome will be a comparison of different trading algorithms to find the most efficient algorithm. <br>
 
+## Results
+(Click for Phase I report)[https://github.com/Jatansahu/Circuits-in-Stocks/blob/main/202218061_Final_Submission.pdf]
 ---
 **Team Members:** Hetvi Desai, Shreya Arora, Dhruv Solanki, Jatan Sahu <br>
 **Project Mentor:** Prof. Bhaskar Chaudhury, Dean (Students), DA-IICT, Gandhinagar 
